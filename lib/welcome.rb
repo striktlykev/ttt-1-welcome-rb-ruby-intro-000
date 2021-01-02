@@ -4,3 +4,4 @@
 ruby lib/welcome.rb
 lib/welcome.rb
 ruby lib/welcome.#!/usr/bin/env ruby -wKU
+ruby lib/welcome
