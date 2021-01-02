@@ -1,1 +1,1 @@
-puts ruby lib/welcome.rb
+puts lib/welcome.rb
