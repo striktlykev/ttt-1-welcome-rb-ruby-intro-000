@@ -1,1 +1,1 @@
-ruby lib/Welcome.rb
+print ruby lib/welcome.rb
