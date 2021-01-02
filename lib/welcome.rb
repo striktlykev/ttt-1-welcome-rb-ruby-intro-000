@@ -2,3 +2,4 @@
 # You can see what this file does by running:
 # ruby lib/welcome.rb from your terminal.
 ruby lib/welcome.rb
+ruby lib/welcome.rb
