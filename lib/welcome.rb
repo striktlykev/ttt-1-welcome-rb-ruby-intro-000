@@ -1,1 +1,1 @@
-lib/welcome.#!/usr/bin/env ruby -wKU
+ruby lib/Welcome.rb
