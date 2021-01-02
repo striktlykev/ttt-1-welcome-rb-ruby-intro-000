@@ -3,3 +3,4 @@
 # ruby lib/welcome.rb from your terminal.
 ruby lib/welcome.rb
 lib/welcome.rb
+ruby lib/welcome.#!/usr/bin/env ruby -wKU
